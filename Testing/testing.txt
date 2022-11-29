@@ -1,0 +1,1 @@
+I couldn’t tell any difference between the page loaded into chrome and the page loaded into safari.
